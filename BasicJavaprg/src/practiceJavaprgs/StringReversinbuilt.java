@@ -16,7 +16,7 @@ public class StringReversinbuilt {
 		System.out.println(revd.toUpperCase());
 		System.out.println(revd.substring(4));
 	}
-	
+	//creating new class for string rev
 	public static String stringrev(String str) {
 		
 		StringBuilder sb = new StringBuilder(str);

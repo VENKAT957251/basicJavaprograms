@@ -1,10 +1,15 @@
 package practiceJavaprgs;
 
+import java.util.Arrays;
+
 public class arraytoStringArraylist {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
+		String[] ops = {"B R","Venkata","Sai","pavan"};
+		System.out.println(Arrays.toString(ops));
+		
+		
 	}
 
 }

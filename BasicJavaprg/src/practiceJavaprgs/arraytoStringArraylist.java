@@ -8,7 +8,7 @@ public class arraytoStringArraylist {
 
 		String[] ops = {"B R","Venkata","Sai","pavan"};
 		System.out.println(Arrays.toString(ops));
-		
+		//hai
 		
 	}
 

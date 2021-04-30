@@ -13,9 +13,11 @@ public class StringReversinbuilt {
 		sb.toString();
 		System.out.println(sb);
 		String revd = "manikandan";
+		String revy = "venkatasaipavan";
 		
 		System.out.println(revd.toUpperCase());
 		System.out.println(revd.substring(4));
+		System.out.println("upper case:"+revy.toUpperCase());
 	}
 	
 	public static String stringrev(String str) {

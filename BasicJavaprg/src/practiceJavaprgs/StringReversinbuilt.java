@@ -8,13 +8,16 @@ public class StringReversinbuilt {
 	
 	
 		StringBuilder sb = new StringBuilder("ragulsen");
-		sb.replace(0, 5 , "Amh");
+		//string reverse and sring functions
+		sb.replace(0, 5 , "Amhith");
 		sb.toString();
 		System.out.println(sb);
 		String revd = "manikandan";
+		String revy = "venkatasaipavan";
 		
 		System.out.println(revd.toUpperCase());
 		System.out.println(revd.substring(4));
+		System.out.println("upper case:"+revy.toUpperCase());
 	}
 	//creating new class for string rev
 	public static String stringrev(String str) {
